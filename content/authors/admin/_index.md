@@ -69,13 +69,11 @@ education:
     icon: ""
     date_start: 2017.6
     date_end: 2019.4
-	
   - area: MS Logic
     institution: University of Amsterdam
     icon: ""
     date_start: 2013.9
     date_end: 2015.8
-
   - area: BS Artificial Intelligence
     institution: Peking University
     icon: ""
