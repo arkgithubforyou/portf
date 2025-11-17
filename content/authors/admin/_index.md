@@ -99,8 +99,8 @@ education:
     # summary: |
       # Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
-Skills
-Add your own SVG icons to `assets/media/icons/`
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 # skills:
   # - name: Technical Skills
     # items:
@@ -139,10 +139,10 @@ Add your own SVG icons to `assets/media/icons/`
   # - name: Spanish
     # percent: 50
 
-Awards.
-  Add/remove as many awards below as you like.
-  Only `title`, `awarder`, and `date` are required.
-  Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards.
+#  Add/remove as many awards below as you like.
+#  Only `title`, `awarder`, and `date` are required.
+#  Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 # awards:
   # - title: Best Paper Award
     # url: https://neurips.cc/
