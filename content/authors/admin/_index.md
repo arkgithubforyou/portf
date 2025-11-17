@@ -57,8 +57,8 @@ education:
   - area: PhD Computational Linguistics (Semi-supervised Learning/Commonsense Knowledge)
     institution: Saarland University
     icon: ""
-    date_start: 2019.4
-    date_end: 2024.4
+    date_start: 2019-4
+    date_end: 2024-4
     summary: |
       Thesis on _Scaling Towards Wider Coverage Script Knowledge for NLP_. Supervised by Prof. Alexander Koller.
 #    button:
@@ -67,18 +67,18 @@ education:
   - area: MS Computer Science (Story Generation)
     institution: Saarland University
     icon: ""
-    date_start: 2017.6
-    date_end: 2019.4
+    date_start: 2017-6
+    date_end: 2019-4
   - area: MS Logic
     institution: University of Amsterdam
     icon: ""
-    date_start: 2013.9
-    date_end: 2015.8
+    date_start: 2013-9
+    date_end: 2015-8
   - area: BS Artificial Intelligence
     institution: Peking University
     icon: ""
-    date_start: 2008.8
-    date_end: 2013.6
+    date_start: 2008-8
+    date_end: 2013-6
 
 
 # work:
