@@ -3,7 +3,7 @@ title: Pandas
 date: 2023-10-26
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://www.vellum.ai/llm-leaderboard?utm_source=chatgpt&utm_medium=geo
 tags:
   - Hugo
   - HugoBlox
